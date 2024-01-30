@@ -29,11 +29,6 @@ At Fractal Technologies, we utilize AWS to streamline operations, setting up ins
 
 - **B. Tech Artificial Intelligence and Data Science**
   - Sri Eshwar College Of Engineering, Coimbatore (2022 - 2025)
-  - CGPA: 7.2
-
-- **Diploma in Computer Networking**
-  - PSG Polytechnic College, Coimbatore (2019 - 2022)
-  - Percentage: 87.04%
 
 ## 💼 Skills
 
@@ -65,10 +60,6 @@ At Fractal Technologies, we utilize AWS to streamline operations, setting up ins
 [![Wireshark](https://img.shields.io/badge/Wireshark-Intermediate-yellow)]()
 [![Nmap](https://img.shields.io/badge/Nmap-Intermediate-yellow)]()
 [![Jadx](https://img.shields.io/badge/Jadx-Intermediate-yellow)]()
-
-## 📈 GitHub Statistics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowthamS7&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/GowthamS7)
 
 ## 📄 Paper Publications
 
