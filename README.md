@@ -4,11 +4,12 @@
 
 ## 📧 Contact
 
-- Email: Gowthamofficial456@gmail.com
-- GitHub: [GowthamS7](https://github.com/GowthamS7)
-- LinkedIn: [Gowtham S](https://www.linkedin.com/in/gowtham-s468b94228/)
-- LeetCode: [GowthamS201](https://leetcode.com/GowthamS201/)
-- Phone: +91 8056065887
+- ✉️ Email: [Gowthamofficial456@gmail.com](mailto:Gowthamofficial456@gmail.com)
+- 🌐 GitHub: [GowthamS7](https://github.com/GowthamS7)
+- 💼 LinkedIn: [Gowtham S](https://www.linkedin.com/in/gowtham-s468b94228/)
+- 👨‍💻 LeetCode: [GowthamS201](https://leetcode.com/GowthamS201/)
+- 📱 Phone: [+91 8056065887](tel:+918056065887)
+
 
 ## 👨‍💻 Professional Experience
 
