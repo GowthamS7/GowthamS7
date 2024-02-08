@@ -1,6 +1,6 @@
 # Gowtham S
 
-👋 Hello, World! Welcome to my GitHub profile. I'm Gowtham S, a passionate individual with a keen interest in Artificial Intelligence and Data Science.
+👋 Hello, World! Welcome to my GitHub profile. I'm Gowtham S, a passionate individual with a keen interest in Networking and Full-stack Development.
 
 ## 📧 Contact
 
