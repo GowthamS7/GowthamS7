@@ -46,10 +46,7 @@ At Fractal Technologies, we utilize AWS to streamline operations, setting up ins
 [![MySQL](https://img.shields.io/badge/MySQL-Intermediate-yellow)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-yellow)]()
 
-### Web Technology
-[![HTML](https://img.shields.io/badge/HTML-Intermediate-brightgreen)]()
-[![CSS](https://img.shields.io/badge/CSS-Intermediate-brightgreen)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)]()
+
 
 ## 🌟 Let's Connect
 
